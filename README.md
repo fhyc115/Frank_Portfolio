@@ -7,6 +7,8 @@
 * Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to reach the best model. 
 * Built a client facing API using flask 
 
+Test to put image in
+![](https://github.com/fhyc115/Frank_Portfolio/blob/main/images/Look%20for%20outliers.png)
 
 # [Project 2: TBA]()
 *
