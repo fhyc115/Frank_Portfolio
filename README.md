@@ -8,7 +8,7 @@
 * Built a client facing API using flask 
 
 Test to put image in
-![](https://github.com/fhyc115/Frank_Portfolio/blob/main/images/Look%20for%20outliers.png)
+![](/images/Look%20for%20outliers.png)
 
 # [Project 2: TBA]()
 *
