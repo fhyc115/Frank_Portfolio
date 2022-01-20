@@ -7,7 +7,6 @@
 * Optimized Linear, Lasso, Ridge Regression, ElasticNet using GridsearchCV to reach the best model.
 * Built a client facing API using flask 
 
-Test to put image in
 ![](/images/outliers.jpg)
 
 # [Project 2: TBA]()
